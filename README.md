@@ -18,7 +18,6 @@
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
-- [Badges](#badges)
 ---
 
 ## Welcome to PhoQSim!
