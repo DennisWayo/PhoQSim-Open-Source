@@ -1,5 +1,4 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/DennisWayo/PhoQSim-Open-Source)
 ![GitHub forks](https://img.shields.io/github/forks/DennisWayo/PhoQSim-Open-Source)
