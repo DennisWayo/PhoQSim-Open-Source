@@ -39,7 +39,7 @@ Photonic quantum systems are at the forefront of quantum computing due to their 
   Explore phase-space representations (e.g., Wigner functions) and photon distributions with intuitive visual tools.
 
 - 🔗 **Integration-Ready**  
-  Seamlessly connects with platforms like [Strawberry Fields](https://strawberryfields.ai), [PennyLane](https://pennylane.ai), and device-level tools like Lumerical.
+  Seamlessly connects with platforms like [Strawberry Fields](https://strawberryfields.ai), [PennyLane](https://pennylane.ai), and device-level tools like Ansys Lumerical.
 
 - 🚀 **Scalability and Performance**  
   Leverages advanced computational techniques, including tensor networks and GPU acceleration, for large-scale systems.
