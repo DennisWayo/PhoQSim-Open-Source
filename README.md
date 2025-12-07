@@ -5,20 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/DennisWayo/PhoQSim-Open-Source)
 ![GitHub license](https://img.shields.io/github/license/DennisWayo/PhoQSim-Open-Source)
 
-# PhoQSim: Open-Source Photonic Quantum Simulator
-
----
-## Table of Contents
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Getting Started](#getting-started)
-- [Development Phases](#development-phases)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
----
+# PhoQSim++
 
 ## Welcome to PhoQSim!
 PhoQSim is an open-source photonic quantum simulator designed to enable researchers, educators, and developers to explore quantum photonic circuits with ease. Built to support Gaussian and non-Gaussian systems, PhoQSim bridges theoretical research and experimental implementation while prioritizing scalability, usability, and accessibility.
