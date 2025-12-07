@@ -32,19 +32,19 @@ Photonic quantum systems are at the forefront of quantum computing due to their 
 
 ## Key Features
 
-- 📡 **Simulate Gaussian and Non-Gaussian Systems**  
+-  **Simulate Gaussian and Non-Gaussian Systems**  
   Efficiently model photonic quantum circuits, including single-photon sources, squeezing operations, and photon-number-resolving detectors.
 
-- 🔄 **Real-Time Visualization**  
+-  **Real-Time Visualization**  
   Explore phase-space representations (e.g., Wigner functions) and photon distributions with intuitive visual tools.
 
-- 🔗 **Integration-Ready**  
+-  **Integration-Ready**  
   Seamlessly connects with platforms like [Strawberry Fields](https://strawberryfields.ai), [PennyLane](https://pennylane.ai), and device-level tools like Ansys Lumerical.
 
-- 🚀 **Scalability and Performance**  
+-  **Scalability and Performance**  
   Leverages advanced computational techniques, including tensor networks and GPU acceleration, for large-scale systems.
 
-- 💡 **Open-Source and Community-Driven**  
+-  **Open-Source and Community-Driven**  
   Contribute to and benefit from a growing ecosystem of photonic quantum tools.
 ---
 
@@ -87,8 +87,7 @@ PhoQSim collaborates with leading institutions and industry partners to validate
 
 For questions, feel free to reach out:
 
-* 📧 Email: iwayoden@gmail.com
-* 💬 Discord/Slack: Coming Soon!
+*  Email: iwayoden@gmail.com
 
 ## Acknowledgments
 
